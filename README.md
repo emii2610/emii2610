@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🌽
 
-<!--
-**emii2610/emii2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é esse ai que esta no perfil
+- Infelizmente estamos estudando no alura
+  
+- Estudando linguagem de JavaScript 
+- Utilizarei esse espaço para o compartilhamento dos projetos
 
-Here are some ideas to get you started:
+  ### Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  0001100530952sp@al.educacao.sp.gov.br
+
+
+
+![]( https://github.com/emii2610/emii2610/assets/172595437/06f8dbdc-cfb3-4c04-b7a0-95b627d64214)
